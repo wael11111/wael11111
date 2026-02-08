@@ -60,5 +60,6 @@ Projet orienté objet avec :
 ---
 
 ## 📬 Contact
+[LinkedIn](https://www.linkedin.com/in/wael-ben-moussa-098819391/)
 
 Je suis ouvert aux retours, aux échanges et aux opportunités liées au développement informatique.
